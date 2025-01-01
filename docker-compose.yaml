@@ -135,3 +135,5 @@ volumes:
     driver: local
   recensioni_db_data:
     driver: local
+  recensioni_seguite_db_data:
+    driver: local
